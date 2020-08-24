@@ -1,0 +1,9 @@
+.git
+.svn
+.hg
+.meta
+.meta/log
+.meta/blobs
+.meta/kvstore
+.meta/objects
+*.pyc
